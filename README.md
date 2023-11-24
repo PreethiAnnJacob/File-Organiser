@@ -1,5 +1,5 @@
-# File-Organiser
-Python program to organise files based on extension into folders
+# File-Organiser  
+Python program to organise files based on extension into folders  
 Here for repeating test: Input files where kept in the folder "Directory to Organise\Input files to Organise" in the same folder as the organiser.py is in. So execution of organiser.py doesn't touch this folder.
 
 Before Running:  
